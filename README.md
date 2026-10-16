@@ -184,4 +184,4 @@ Limitações do "s06tool.py"
 
 Conclusão: utilize "s05tool.py" e "s10tool.py" para editar os respectivos recursos gráficos e "s06tool.py" para o arquivo "s06", sempre mantendo cópias de segurança e validando os arquivos reconstruídos antes de testá-los no jogo.
 
-AVISO: Force o app a rodar em 800x480 caso contrário use o App Cloner
+AVISO: Force o app a rodar em 800x480 caso contrário use o App Cloner MOD
